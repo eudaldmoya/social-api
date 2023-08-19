@@ -1,0 +1,10 @@
+{
+  "people": [
+    {
+      "name": "pedro",
+      "status": "friend",
+      "age": 26,
+      "image": "pedro.jpg"
+    }
+  ]
+}
