@@ -1,10 +1,25 @@
 {
-  "people": [
+  "users": [
     {
-      "name": "pedro",
-      "status": "friend",
-      "age": 26,
+      "id": 1,
+      "name": "Pedro",
+      "isFriend": false,
+      "age": 44,
       "image": "pedro.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Abelino",
+      "isFriend": true,
+      "age": 84,
+      "image": "abelino.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Francisca",
+      "isFriend": true,
+      "age": 78,
+      "image": "francisco.jpg"
     }
   ]
 }
