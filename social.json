@@ -5,21 +5,28 @@
       "name": "Pedro",
       "isFriend": false,
       "age": 44,
-      "image": "pedro.jpg"
+      "image": "https://xsgames.co/randomusers/assets/avatars/male/27.jpg"
     },
     {
       "id": 2,
       "name": "Abelino",
       "isFriend": true,
       "age": 84,
-      "image": "abelino.jpg"
+      "image": "https://xsgames.co/randomusers/assets/avatars/male/33.jpg"
     },
     {
       "id": 3,
       "name": "Francisca",
       "isFriend": true,
       "age": 78,
-      "image": "francisco.jpg"
+      "image": "https://xsgames.co/randomusers/assets/avatars/female/55.jpg"
+    },
+    {
+      "name": "Juan",
+      "isFriend": true,
+      "age": "54",
+      "image": "https://xsgames.co/randomusers/assets/avatars/male/75.jpg",
+      "id": 4
     }
   ]
 }
